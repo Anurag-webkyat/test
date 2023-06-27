@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshreyas_app=self.webpackChunkshreyas_app||[]).push([[535],{535:(e,s,t)=>{t.r(s),t.d(s,{_del_block:()=>n});const n=async(e,s)=>new Promise(((t,n)=>{fetch(e,{method:"post",headers:{contentType:"application/json"},body:JSON.stringify(s)}).then((e=>e.text())).then((e=>{t(e)}))}))}}]);
